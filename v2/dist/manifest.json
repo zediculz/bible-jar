@@ -1,0 +1,11 @@
+{
+  "name": "bibleShare App",
+  "short_name": "BibleShare",
+  "theme_color": "#141516",
+  "background_color": "#7031ff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "id": "/"
+}
